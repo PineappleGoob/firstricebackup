@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Orchis aurorae</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1458912</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>49205</downloads>
+  <installedfile>/home/pinedev/.local/share/aurorae/themes/Orchis-dark_x1.5/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/aurorae/themes/Orchis_x1.5/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/aurorae/themes/Orchis/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/aurorae/themes/Orchis-dark/*</installedfile>
+  <id>1458912</id>
+  <releasedate>2022-06-27</releasedate>
+  <summary>&lt;h2>Orchis theme for kde plasma&lt;/h2>
+
+&lt;h2>&lt;b>Kvantum theme:&lt;/b> &lt;a href="https://www.pling.com/p/1458909/">https://www.pling.com/p/1458909/&lt;/a>&lt;/h2>
+
+&lt;h2>&lt;b>Icon theme:&lt;/b> &lt;a href="https://www.pling.com/p/1359276/">https://www.pling.com/p/1359276/&lt;/a>&lt;/h2>
+
+&lt;h2>&lt;b>Cursors theme:&lt;/b> &lt;a href="https://www.pling.com/p/1358330/">https://www.pling.com/p/1358330/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Wallpaper:&lt;/b> &lt;a href="https://www.pling.com/p/1458908/">https://www.pling.com/p/1458908/&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/32/24/44/1458912/08bda75259ccca442becb81ae6ffe52ebd0ecb64a57a8458cdb2f14beb11406bed1f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1458912/08bda75259ccca442becb81ae6ffe52ebd0ecb64a57a8458cdb2f14beb11406bed1f.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY1NjMwMTI4OSwibyI6IjEiLCJzIjoiMjIwMGI3MGJhMmMzOTY1OWE1ZDJmY2I1MDM5YTc4YTBjMGEyZmFiMDM1MmYzOWRkNjM5OWRiMDk2YzM4NDhiYzBmYWIzYTE0MjFjY2Y3ZGM3MTMwZGQ2NmFmZmIzODEwNmU2OGE5MmM5NTkxN2I4MGRjZDQ4ZmE1ZmJiYjVmMWYiLCJ0IjoxNzU0MjY4Njg5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.lgRjEfS01Pty47ZPsGIQy9qjYSxGnsVi3eIjFmxhE4U/Orchis.tar.gz</payload>
+  <tags>plasma,original-product,theme,unix,linux,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Sweet Ambar Blue Aurorae</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1897308</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>162965</downloads>
+  <installedfile>/home/pinedev/.local/share/aurorae/themes/Sweet-ambar-blue/*</installedfile>
+  <id>1897308</id>
+  <releasedate>2022-09-04</releasedate>
+  <summary>&lt;p>Aurorae theme for Sweet Ambar Blue&lt;/p>
+
+&lt;p>For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://raw.githubusercontent.com/tsujan/Kvantum/master/Kvantum/INSTALL">here&lt;/a>.&lt;/p>
+
+&lt;p>Suggested setings: &lt;/p>
+
+&lt;p>&lt;a href="https://store.kde.org/p/1294013/">Sweet-Ambar-Blue Kvantum theme&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://store.kde.org/p/1897309/">Sweet-Ambar-Blue Plasma theme&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://store.kde.org/p/1897307/">Sweet-Ambar-Blue colorscheme&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://store.kde.org/p/1297008/">Sweet-Ambar-Blue Konsole color scheme &lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://www.pling.com/p/1305251/">Candy icons&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://www.pling.com/p/1309907/">Sweet wallpaper&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://store.kde.org/p/1334945/"> Sweet sddm theme &lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="https://dribbble.com/shots/3373125-Hexagonal-planets-and-cosmic-dust?utm_source=Pinterest_Shot"> Wallpaper in screenshot here&lt;/a>&lt;/p>
+
+&lt;p>&lt;font color="#2ED5FF">&lt;b>- Note -&lt;/b>&lt;/font>&lt;/p>
+
+&lt;p>&lt;font color="#8A2387">F&lt;/font>&lt;font color="#A92E5A">i&lt;/font>&lt;font color="#C93A2D">r&lt;/font>&lt;font color="#E84600">e&lt;/font>&lt;font color="#EB540B">f&lt;/font>&lt;font color="#EE6216">o&lt;/font>&lt;font color="#F17021">x&lt;/font>: if you are a firefox user, you can give a chance to the &lt;a href="https://addons.mozilla.org/es/firefox/addon/sweet-dark/">sweet-dark&lt;/a> extension for a better looking or try my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme">&lt;b>&lt;font color="#7F00FF">F&lt;/font>&lt;font color="#8400FF">i&lt;/font>&lt;font color="#8900FF">r&lt;/font>&lt;font color="#8E00FF">e&lt;/font>&lt;font color="#9300FF">f&lt;/font>&lt;font color="#9800FF">o&lt;/font>&lt;font color="#9D00FF">x&lt;/font>&lt;font color="#A300FF">-&lt;/font>&lt;font color="#A800FF">S&lt;/font>&lt;font color="#AD00FF">w&lt;/font>&lt;font color="#B200FF">e&lt;/font>&lt;font color="#B700FF">e&lt;/font>&lt;font color="#BC00FF">t&lt;/font>&lt;font color="#C200FF">-&lt;/font>&lt;font color="#C700FF">T&lt;/font>&lt;font color="#CC00FF">h&lt;/font>&lt;font color="#D100FF">e&lt;/font>&lt;font color="#D600FF">m&lt;/font>&lt;font color="#DB00FF">e&lt;/font>&lt;/b> &lt;/a>.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/36/61/48/1897308/kvantum-aurorae.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1897308/kvantum-aurorae.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY2MjMyNDMyMSwibyI6IjEiLCJzIjoiZGFmYWViMGM2YjQwNDcxN2NhNGQ2MzZjNDYyZDJmMjZmNGZjMmYwMjY1YjlkMWYyZmY0MWE4NGI0OTVmNjVmNzdmOWJkM2E2MzZmZWJiZDBjNjE3YmQ3MjQ3ZTA2ZmQ5OTJmMGI1OTU5YzA3OWNmZGI2YTM2YjUzMmJkZmUzMGEiLCJ0IjoxNzU0MjY4Nzk5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.RqDXC9S4fQEOcTPmApaERN46HVXfVpfTmIuM2cakAM4/Sweet-ambar-blue.tar.xz</payload>
+  <tags>linux,theme,unix,kde,gplv3,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

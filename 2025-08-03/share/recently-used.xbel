@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/pinedev/Downloads/kitty.conf" added="2025-08-03T23:59:44.951367Z" modified="2025-08-03T23:59:46.790000Z" visited="2025-08-03T23:59:46.790000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'org.mozilla.firefox %u'" modified="2025-08-03T23:59:44.951368Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-08-03T23:59:46.790000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pinedev/Downloads/colors-wallust.conf" added="2025-08-03T23:59:55.253866Z" modified="2025-08-03T23:59:55.253868Z" visited="2025-08-03T23:59:55.253866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'org.mozilla.firefox %u'" modified="2025-08-03T23:59:55.253867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pinedev/Downloads/colors-matugen.conf" added="2025-08-04T00:00:09.646830Z" modified="2025-08-04T00:00:09.646835Z" visited="2025-08-04T00:00:09.646830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'org.mozilla.firefox %u'" modified="2025-08-04T00:00:09.646832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pinedev/Downloads/config.jsonc" added="2025-08-04T00:07:14.357727Z" modified="2025-08-04T00:07:14.357730Z" visited="2025-08-04T00:07:14.357728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'org.mozilla.firefox %u'" modified="2025-08-04T00:07:14.357729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pinedev/Downloads" added="2025-08-04T00:07:44.518000Z" modified="2025-08-04T00:07:44.518000Z" visited="2025-08-04T00:07:44.518000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2025-08-04T00:07:44.518000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pinedev/Downloads/vesktop-1.5.8.x86_64.rpm" added="2025-08-04T00:12:22.199618Z" modified="2025-08-04T00:12:22.199624Z" visited="2025-08-04T00:12:22.199618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'org.mozilla.firefox %u'" modified="2025-08-04T00:12:22.199620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://store.kde.org/p/2186442" added="2025-08-04T00:19:13.569000Z" modified="2025-08-04T00:19:13.569000Z" visited="2025-08-04T00:19:13.569000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.mozilla.firefox" exec="firefox %u" modified="2025-08-04T00:19:13.569000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

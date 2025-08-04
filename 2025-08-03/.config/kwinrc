@@ -1,0 +1,18 @@
+[Desktops]
+Id_1=2a583418-d708-4439-8181-b366c6df44ea
+Id_2=1a778f09-8664-40fe-a17c-f20c9d8e92af
+Name_2=New Desktop
+Number=2
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][285949dd-685f-56b1-8dc0-dde07cea3a90]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ed3a4396-5de0-593a-b9b0-c3ca4c42d982]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1

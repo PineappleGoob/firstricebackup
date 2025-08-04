@@ -1,0 +1,19 @@
+[Document 0]
+URL=file:///home/pinedev/.config/kitty/kitty.conf
+
+[MainWindow0 Settings]
+WindowState=8
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/.config/kitty/colors-wallust.conf
+File2[$e]=$HOME/.config/kitty/colors-matugen.conf
+File3[$e]=$HOME/.config/kitty/kitty.conf
+Name1[$e]=colors-wallust.conf
+Name2[$e]=colors-matugen.conf
+Name3[$e]=kitty.conf

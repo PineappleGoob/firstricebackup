@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Tela circle icon theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1359276</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>870542</downloads>
+  <installedfile>/home/pinedev/.local/share/icons/Tela-circle/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/icons/Tela-circle-light/*</installedfile>
+  <id>1359276</id>
+  <releasedate>2025-07-06</releasedate>
+  <summary>&lt;p>&lt;b> Tela circle Icon Theme &lt;/b>
+Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924">https://www.pling.com/p/1279924&lt;/a>&lt;/p>
+
+&lt;h2>You can use this theme on all popular desktops&lt;/h2>
+
+&lt;p>&lt;b> Supported desktops &lt;/b>&lt;/p>
+
+&lt;p>&lt;b>1.&lt;/b> Gnome
+&lt;b>2.&lt;/b> Kde Plasma
+&lt;b>3.&lt;/b> Budgie
+&lt;b>4.&lt;/b> Cinnamon
+&lt;b>5.&lt;/b> Elementary Pantheon
+&lt;b>6.&lt;/b> Xfce4
+&lt;b>7.&lt;/b> Mate
+&lt;b>...&lt;/b>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1MTgxMTExOCwibyI6IjEiLCJzIjoiMjkzZDg4MTk4M2VlYmYyNjRiOGFiMmZmMGYzZWNkMTQ2Y2JmZmU1NmVmYjUzZDgyZjQ1ODY4MGJjZTdkZDY1MTI2YmQ0ZGUxYzkwNjBiNzY0MDUwMzIzMDc2YTNkMGZkNzU2ZDBkMmY0MzQ1ZGU2MGNmNjg3OGFhNDk4NWEzMGEiLCJ0IjoxNzU0MjY4NzA2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.1OKHNS-hd8-v4iXOOezMdhRAkv5FVVbUoKnOtNo8jjg/01-Tela-circle.tar.xz</payload>
+  <tags>linux,unix,gplv3,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Mkos-Big-Sur</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1400021</homepage>
+  <licence></licence>
+  <version>1.3.5.4</version>
+  <rating>90</rating>
+  <downloads>1112676</downloads>
+  <installedfile>/home/pinedev/.local/share/icons/Mkos-Big-Sur-Panel-white/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/icons/Mkos-Big-Sur-Night/*</installedfile>
+  <installedfile>/home/pinedev/.local/share/icons/Mkos-Big-Sur/*</installedfile>
+  <id>1400021</id>
+  <releasedate>2025-08-03</releasedate>
+  <summary>&lt;p>Icon set that imitate look to the icons of the new apple operating system version 11, created 100% in inkscape, no blurry backgrounds, instead I use the gradient tool and the technique of repeating multiple transparent images to give the same effect, this to ensure correct representation in all desktop environments, especially those written in qt libraries, As of beta 0.0.4, png shadows have also been incorporated only when very necessary,
+Theme to imitate the appearance of MacOS&lt;/p>
+
+&lt;p>&lt;b>Icon theme&lt;/b>
+&lt;a href="https://www.pling.com/p/1400021/">https://www.pling.com/p/1400021/&lt;/a>&lt;/p>
+
+&lt;hr />
+
+&lt;p>&lt;b>Aurorae theme&lt;/b>
+&lt;a href="https://www.pling.com/p/1408711/">https://www.pling.com/p/1408711/&lt;/a>&lt;/p>
+
+&lt;hr />
+
+&lt;p>kvantum theme
+&lt;a href="https://www.pling.com/p/1408701/">https://www.pling.com/p/1408701/&lt;/a>&lt;/p>
+
+&lt;p>&lt;b>plasma global theme&lt;/b>
+&lt;a href="https://www.pling.com/p/1408719/">https://www.pling.com/p/1408719/&lt;/a>&lt;/p>
+
+&lt;p>&lt;b>gtk-theme&lt;/b>&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1405530/">https://www.pling.com/p/1405530/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>based on my icon set "Os Catalina Icons"&lt;/b>:
+&lt;a href="https://www.pling.com/p/1309810/">https://www.pling.com/p/1309810/&lt;/a>&lt;/p>
+
+&lt;hr />
+
+&lt;p>If you want to see the quality of the icons, I recommend opening the following image and looking at a small demo in full size.
+&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/16.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/16.png&lt;/a>
+&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/15.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/15.png&lt;/a>
+&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/17.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/17.png&lt;/a>&lt;/p>
+
+&lt;p>&lt;b>compatible with:&lt;/b>&lt;/p>
+
+&lt;ul>&lt;li>Deepin.&lt;/li>&lt;li>KDE.&lt;/li>&lt;li>Gnome.&lt;/li>&lt;li>ElementaryOs&lt;/li>&lt;li>Xfce4&lt;/li>&lt;/ul>
+
+&lt;hr />
+
+&lt;p>&lt;b>Installation&lt;/b>&lt;/p>
+
+&lt;p>download the latest version from "Files".
+you will get a compressed file in ".tar.xz", unzip in your HOME in the folder
+.icons,
+If it does not exist, create it.,
+in the KDE desktop environment the path is
+home/.local/share/icons.
+with root you can unzip in
+usr/share/icons.&lt;/p>
+
+&lt;hr />
+
+&lt;p>&lt;b>Donate me&lt;/b>
+&lt;font color="#225862">If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;/font>
+&lt;a href="https://www.paypal.me/zayronxio">&lt;font color="#077dd2">Donate&lt;/font>&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/24/01/13/1400021/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1400021/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NDI0MDI2OCwibyI6IjEiLCJzIjoiNTNjMGY2Yzc1ZTE3Mjk2YjdjZDJlOWEyN2ZkNjUzYjg3YjE0MjQzZTMyMGEyMTRhMWQwZTEzOGY5MzJlNWVmZDFlNjQ2ZmNkZGNmYzQ4ZDdhMTlhYTZjMjg1ODA2ODNiNzk5NWMyOGQyNzQ5M2YwZDAxMjA5NTQ3YjQ5YTJmZGEiLCJ0IjoxNzU0MjY4OTA4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.GBAS6okk5BjaQM-Fd8h-p3FoWLPNV2_rxqQEjWfi9OU/Mkos-Big-Sur.tar.xz</payload>
+  <tags>icon-theme,catalina,bigsur,apple,sonoma,unix,original-product,linux,macos</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.11.0</version>
+  <rating>96</rating>
+  <downloads>2300905</downloads>
+  <installedfile>/home/pinedev/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2025-08-03</releasedate>
+  <summary>&lt;p>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/">Sweet&lt;/a> theme&lt;/p>
+
+&lt;p>If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/">sweet-folders&lt;/a> as shown in the second screenshot&lt;/p>
+
+&lt;p>&lt;b>Note&lt;/b>&lt;/p>
+
+&lt;p>To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls">pull request&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1Mzc0ODA2NCwibyI6IjEiLCJzIjoiZjZjMmJmYmQ2ODkwY2UwMTcyNjA4YWE4MjkxMTVhMGU5MTBhNTY5M2NmM2M5NzM4Zjc3YTA4MmUwZjJhZGI1ODAwMTUxNTUxOTFlMTMxZDQxZThkMzQzM2NlZmM5YmNhMDBmZmI4OTFiZDBhMDY4NWM4MTNjYWUyYjcwYWZlOTciLCJ0IjoxNzU0MjY4ODAxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.v2AFomm9sv5OMJPAJGeJ7IF_HDN9Ih5raCb48uQ6d6A/candy-icons.tar.xz</payload>
+  <tags>gplv3,icon-theme,linux,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
