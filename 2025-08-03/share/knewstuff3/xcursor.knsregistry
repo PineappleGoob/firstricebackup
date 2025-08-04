@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Sweet cursors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393084</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>587401</downloads>
+  <installedfile>/home/pinedev/.icons/Sweet-cursors/*</installedfile>
+  <id>1393084</id>
+  <releasedate>2020-06-12</releasedate>
+  <summary>&lt;p>Cursor theme with some gradients to fit my sweet themes, based on breeze&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU5MTk5Mzg1NSwibyI6IjEiLCJzIjoiMGI0YmFlZGRlMmIyZjYzNzMwYzA2MWM3YWFiNjM2OTdiMGJmMTMyZTVjMTZiNTYwYzRiN2VkZGY3NmMxMjYxZWRiZmFjYjZiMzM3OWQyYzY1NjM1ZDQ5ZjU3MzI0MjEzYWE1NWQ2OWQyNDRiYzIwZWQ4NTUwNDY0OGM1ZTUyM2MiLCJ0IjoxNzU0MjY4ODI2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.8-yiwK7G0RVFQBUnmD-N1r_wLbXMrpMk9cumpwD2xPU/Sweet-cursors.tar.xz</payload>
+  <tags>linux,gplv3,cursor,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Vimix cursors theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1358330</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>89</rating>
+  <downloads>375703</downloads>
+  <installedfile>/home/pinedev/.icons/Vimix-cursors/*</installedfile>
+  <id>1358330</id>
+  <releasedate>2020-02-23</releasedate>
+  <summary>&lt;p>Vimix cursors theme for linux desktop&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/32/24/44/1358330/f149edb5f0995baf6998b5294bb15e4b33e0.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1358330/f149edb5f0995baf6998b5294bb15e4b33e0.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU4MjQ0MjI3NiwibyI6IjEiLCJzIjoiMjJjODc2NjZjYjc5MmJlM2I0NWJhYTBkYzhiMTY1NjM3ODlhZTI0YjUxNGFkZGY1N2JjYmYwYTU2OTkxMzA1OTI2M2Y1ODBiNzhmYjBjNTdlYTA1ZGY1ZmVjMjBhMDc1ODA5NzAxYjg2NmY4ZTE4ZWQ3NDhiNWZmNDAxY2IzMTUiLCJ0IjoxNzU0MjY4NzE0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.8z6f_lUVhJNGMt1oJu9Lm3H65lYLKnIsaskTkSjrQXk/01-Vimix-cursors.tar.xz</payload>
+  <tags>unix,cursor,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

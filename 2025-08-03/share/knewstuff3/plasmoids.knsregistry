@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="706">
+  <name>Ginti - Gnome Style Desktop Indicator</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>dhruv8sh</author>
+  <homepage>https://store.kde.org/p/2146553</homepage>
+  <licence></licence>
+  <version>v0.6</version>
+  <rating>61</rating>
+  <downloads>5903</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/org.kde.plasma.ginti/</installedfile>
+  <id>2146553</id>
+  <releasedate>2024-07-06</releasedate>
+  <summary>&lt;p>Desktop Indicator applet that uses Gnome Workspace switcher as an inspiration.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/62/52/79/2146553/screenshot-20240707-045916.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/62/52/79/2146553/screenshot-20240707-045916.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyMDI5MzI0MiwibyI6IjEiLCJzIjoiMTFlOGM3OGU3NTY4NzE4OThhMTk2ZjBhNzE5ZmRjNWI5ZmVjMDU2Yzg1OTAwODAzMDZkOTg0NGFmNjc1NDFmY2U5MDE5M2NlYTViMTI4Mzc0ZWZhMjZlMGZkM2FkYmYzZTU2MzEwYWY1OThkNDA4YmNkN2JkOTk4NWU0MmIwZmYiLCJ0IjoxNzU0MjY5MzMxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.1O8LDftp4NBIUXnNZ-Qfy7Pv4fpuQ7qCiUlSNqDb5WQ/v0.6.tar.gz</payload>
+  <tags>plasma##majorversion=6,plasma,original-product,pager,unix,virtual-desktop,widget,workspace,workspaces,linux,gplv3,extension,kde,desktop</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="711">
+  <name>Audio Wave Widget</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2142681</homepage>
+  <licence></licence>
+  <version>0.4</version>
+  <rating>47</rating>
+  <downloads>36465</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/Audio.Wave.Widget/</installedfile>
+  <id>2142681</id>
+  <releasedate>2025-07-20</releasedate>
+  <summary>&lt;p>This KDE Plasma plasmoid provides a real-time visual representation of audio frequencies using dynamic bars that update according to the music being played. It also displays the song title and artist name. The plasmoid activates only when music is detected.&lt;/p>
+
+&lt;p>The audio analysis is performed by a small C program that uses the ALSA library to capture audio and the Radix-2 FFT algorithm to transform the signal into the frequency domain. Communication between the plasmoid and the program is handled via DBus.&lt;/p>
+
+&lt;p>&lt;b>Manual Installation&lt;/b>&lt;/p>
+
+&lt;pre>&lt;code>* Download the file from the "Files" tab on this page.
+* Open a terminal in the directory where you downloaded the file.
+* Execute the following command: plasmapkg -u Audio.Wave.Widget.tar.xz
+&lt;/code>&lt;/pre>
+
+&lt;p>In some cases, it will be necessary to install libdbus-1-dev, libasound2-dev and a C++ compiler (gcc), but it is worth noting that these packages are pre-installed in most distributions.. &lt;/p>
+
+&lt;p>&lt;b>Donate me&lt;/b>
+&lt;font color="#225862">&lt;b>If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;/b>&lt;/font>
+&lt;a href="https://www.paypal.me/zayronxio">&lt;font color="#077dd2">&lt;b>Donate&lt;/b>&lt;/font>&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/24/01/13/2142681/audio-wave.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2142681/audio-wave.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MjQ5NTE2NCwibyI6IjEiLCJzIjoiMTBiY2M0Y2EyMzJhYzk3MzU0MDU4Y2IyNGJhMDIzNTZiM2MyYWYxMzNkZWJmOTI0YTcxN2E4OTdjMWQwMmQ4NTA3NWY2Njc0NWNmNDA3MjMzNDkwMjVkYWM5NWMwMzcxN2Y0MDFmZDY3NDYwOWIyNGRhNDBiNzAzMWY4NGIyN2YiLCJ0IjoxNzU0MjY4ODc4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.D3Sz0VzFqeYzBQzP6PZ3YhbgY-s7zPtY8GxJyWvAfGY/Audio.Wave.Widget.tar.xz</payload>
+  <tags>kde,conky,extension,tahoe,unix,plasma,plasma##majorversion=6,original-product,linux,macos,cc-by-sa,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="708">
+  <name>KDE Modern Clock</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>prayagjain</author>
+  <homepage>https://store.kde.org/p/2135653</homepage>
+  <licence></licence>
+  <version>v1.0.0</version>
+  <rating>61</rating>
+  <downloads>43022</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/com.github.prayag2.modernclock/</installedfile>
+  <id>2135653</id>
+  <releasedate>2024-03-07</releasedate>
+  <summary>&lt;p>A simple yet modern looking clock for KDE Plasma!&lt;/p>
+
+&lt;h2>Please note that this clock does not work on panels.&lt;/h2>
+
+&lt;p>Thanks to @Kuchenmampfer on GitHub for the Plasma 6 port!&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/60/43/39/2135653/logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/60/43/39/2135653/logo.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTgwNDc5NCwibyI6IjEiLCJzIjoiMTJjYzIwOTdiOWVkOTRhYzg3YzU5YzYwZGY3NmE0OTc5YWZlNTdjMmQ1MmYzMmUyZjZmYzA1ODMyNGE4NTFlNGNiMDE3OTZiOTdkYjRiODFlZjhlODllZGZlNmI1M2I0MmU5MjdkZDAzOTkyYzQzNTFjZGQ5NTRmYzAwMTI4MDQiLCJ0IjoxNzU0MjY4ODYxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.G68tyu5MjAg78eJZQn4q7bCtPnJyUQaQNGQVeGC9J0w/modernclock-1.0.0.tar.gz</payload>
+  <tags>gplv3,extension,clock,kde,day,widget,linux,modern,mond,original-product,plasma,plasma##majorversion=6,unix,stylish</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="711">
+  <name>musicWaves</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2186442</homepage>
+  <licence></licence>
+  <version>0.2.5</version>
+  <rating>58</rating>
+  <downloads>21094</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/Music.Waves/</installedfile>
+  <id>2186442</id>
+  <releasedate>2025-07-20</releasedate>
+  <summary>&lt;p>music waves is plasmoid fork by audio.waves.widget. The main difference is that this plasmoid does not have an audio analyzer like audio.waves does. Instead, the bars that represent the audio are generated randomly based on the actual system volume&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/24/01/13/2186442/musicwaves.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2186442/musicwaves.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0ODE5MTkzNCwibyI6IjEiLCJzIjoiMWEzYmJlY2RhNDhmNmI5NjZjZGExZTg3MTU4ZjY1NTQxNTQxYjY1YjVjYWY3OWJlYjczYmQ4ZmUwM2UxMTY3ZWJkYTYwNTkyOTc4OTgwNDhlZjY1MmRkNjQ3Yzc4NTgwMzNmZDZiYjdiM2QzMDRiMDU2MzU1Mjk1YjZiMjczM2YiLCJ0IjoxNzU0MjcwMzM1LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.usZsWgzK5LrS3cC_ZgBDMkYof5BtI5DPP58mKrmjpDQ/Music.Waves.tar.xz</payload>
+  <tags>widget,cc0,linux,macos,plasma##majorversion=6,plasma,unix,kde,extension,efi,conky</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Panel Colorizer</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>luis-bocanegra</author>
+  <homepage>https://store.kde.org/p/2130967</homepage>
+  <licence></licence>
+  <version>v4.3.2</version>
+  <rating>85</rating>
+  <downloads>63391</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/luisbocanegra.panel.colorizer/</installedfile>
+  <id>2130967</id>
+  <releasedate>2025-06-20</releasedate>
+  <summary>&lt;p>Latte-Dock and WM status bar customization for the KDE Plasma panels.&lt;/p>
+
+&lt;p>&lt;b>Presets&lt;/b>
+* Create your own configuration presets
+* Restore defaults
+* Preset auto-loading
+* &amp;bull; Floating panel
+* &amp;bull; Maximized window shown&lt;/p>
+
+&lt;p>&lt;b>Widget Background&lt;/b>
+* Color modes
+* &amp;bull; Static
+* &amp;bull; Animated
+* -&amp;gt; Interval
+* -&amp;gt; Fading
+* Colors
+* &amp;bull; Custom
+* &amp;bull; System
+* &amp;bull; Custom list
+* &amp;bull; Random
+* Contrast correction
+* Style
+* &amp;bull; Spacing
+* &amp;bull; Margin rules
+* &amp;bull; Border radius
+* &amp;bull; Outline
+* &amp;bull; Opacity
+* &amp;bull; Shadow
+* &amp;bull; Line mode
+* Image / Color gradient background&lt;/p>
+
+&lt;p>&lt;b>Icons and text&lt;/b>
+* Color Modes
+* &amp;bull; Static
+* &amp;bull; Interval
+* &amp;bull; Follow widget background
+* Colors
+* &amp;bull; Custom
+* &amp;bull; System
+* &amp;bull; Custom list
+* &amp;bull; Random
+* Contrast correction
+* Opacity
+* Blacklisted widgets color
+* Force icon color to on specific plasmoids that use Kirigami.Icon
+* Recolor applications tray icon
+* Icons/text shadow&lt;/p>
+
+&lt;p>&lt;b>Panel background&lt;/b>
+* Opacity
+* Color
+* Border radius
+* Outline
+* Constant floating panel side padding
+* Shadow
+* Transparent panel&lt;/p>
+
+&lt;p>&lt;b>Other&lt;/b>
+* Widget Blacklist&lt;/p>
+
+&lt;p>&lt;b>Support the development&lt;/b>&lt;/p>
+
+&lt;p>GitHub Sponsors --- https://github.com/sponsors/luisbocanegra
+Ko-fi --- https://ko-fi.com/luisbocanegra
+Buy Me A Coffee --- https://www.buymeacoffee.com/luisbocanegra
+PayPal --- https://www.paypal.com/donate/?hosted&lt;em>button&lt;/em>id=Y5TMH3Z4YZRDA
+Liberapay --- https://liberapay.com/luisbocanegra/&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/67/61/06/2130967/screenshot-20250126-044421.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2130967/screenshot-20250126-044421.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1MDQwMDc3MywibyI6IjEiLCJzIjoiM2ZlODA0ZWI5YzIzYzE4NTU2NzIwNzE0MmU1NzU1NTMwN2MxYzY1ZTg0MTU5NTlkODMwYWQ2MzIwMTdkMzQzZDc3ZTc1MDc3YzU3NzlhOGRmMjc5ZDJjYzA4MWQ1ODBjNjYyNzAyOTY5YTQ3Yzg4ZjY0ZmE1NTMxZmE5NzVlNDAiLCJ0IjoxNzU0MjY4ODU1LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.Av0DSB_nPcGUWk75YTCv98yyNtrKuZ-X0_-SRylUrBA/plasmoid-panel-colorizer-v4.3.2.plasmoid</payload>
+  <tags>customization,colors,extension,kde,theme,unix,lgplv3,linux,widget,original-product,panel,plasma##majorversion=6,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>plasmusic-toolbar</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ccatterina</author>
+  <homepage>https://store.kde.org/p/2128143</homepage>
+  <licence></licence>
+  <version>3.3.0</version>
+  <rating>81</rating>
+  <downloads>29273</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/plasmusic-toolbar/</installedfile>
+  <id>2128143</id>
+  <releasedate>2025-08-02</releasedate>
+  <summary>&lt;p>KDE Plasma widget that shows currently playing song information and provide playback controls. &lt;/p>
+
+&lt;ul>
+&lt;li>Show the currently playing song's title and artist in the KDE panel&lt;/li>
+&lt;li>Manage your music effortlessly with Play, Pause, Next, and Previous controls directly from the KDE panel.&lt;/li>
+&lt;li>Full View provides the album image, along with Play, Pause, Next, Previous, Shuffle, and Repeat controls. Adjust the volume and track position with ease.&lt;/li>
+&lt;li>Icon customization: Change the widget's icon in the panel view to suit your preferences. You can also choose to display the album cover.
+
+&lt;ul>
+&lt;li>Playback controls visibility: Choose whether to display Play, Pause, Next, and Previous controls in the panel view.&lt;/li>
+&lt;li>Preferred source: Change the widget preferred source for music information (spotify, vlc, etc).  The name of the source is the same of desktop file name of the application (see &lt;code>/usr/share/applications/&lt;/code>).&lt;/li>
+&lt;li>Playing song max display width: Determine the maximum width for displaying the currently playing song in the panel. When the song's text exceeds this maximum width, the text will scroll horizontally.&lt;/li>
+&lt;li>Playing song scrolling speed: Change the scrolling speed of the song's text.&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;/ul>
+
+&lt;p>Feel free to contribute, whether you'd like to open an issue, submit a pull request, or simply show your support by starring the repository, your involvement is greatly appreciated.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/73/70/89/2128143/plasmusic-screenshot-2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/73/70/89/2128143/plasmusic-screenshot-2.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NDExNzYwNCwibyI6IjEiLCJzIjoiY2UwMjVkYmFmNGNhYmU2MjAxYjlhNDQyMjM2OTkxNjcxMzcyYjI3NjJhOTg5NzJhNWQ2NmFmOGQwYzZhNTIxYTVhYWZjNTZkMWJjYTg5ODE5NDE4NDNjNTQ3MWYwNzMzOWNkY2QxODc5NTA2YzllZTZjMzFkOGVlMTZkNTU4NzgiLCJ0IjoxNzU0MjcwMzI4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.DKNHmbICDxPTiJ8_tSFrilGAotQweWunlNaEbRmzA4E/plasmusic-toolbar-v3.3.0.plasmoid</payload>
+  <tags>kde,gplv3,extension,unix,vlc,toolbar,spotify,music,linux,widget,original-product,plasma,plasma##majorversion=6,player</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Kurve [Audio Visualizer]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>luis-bocanegra</author>
+  <homepage>https://store.kde.org/p/2299506</homepage>
+  <licence></licence>
+  <version>v1.1.0</version>
+  <rating>72</rating>
+  <downloads>1215</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/luisbocanegra.audio.visualizer/</installedfile>
+  <id>2299506</id>
+  <releasedate>2025-07-20</releasedate>
+  <summary>&lt;p>Audio visualizer powered by CAVA&lt;/p>
+
+&lt;p>Requires installing cava qt6-websockets and python-websockets packages or their equivalents for your distribution!&lt;/p>
+
+&lt;p>Check the readme for more detailed instructions: https://github.com/luisbocanegra/kurve&lt;/p>
+
+&lt;p>&lt;b>Support the development&lt;/b> ❤️&lt;/p>
+
+&lt;p>GitHub Sponsors --- https://github.com/sponsors/luisbocanegra
+Ko-fi --- https://ko-fi.com/luisbocanegra
+Buy Me A Coffee --- https://www.buymeacoffee.com/luisbocanegra
+PayPal --- https://www.paypal.com/donate/?hosted&lt;em>button&lt;/em>id=Y5TMH3Z4YZRDA
+Liberapay --- https://liberapay.com/luisbocanegra/&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/67/61/06/2299506/append-2025-06-26-071634.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2299506/append-2025-06-26-071634.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1Mjk3MzQzNiwibyI6IjEiLCJzIjoiMjgxMjczYmY5NjViMjI0YWU4YmVkNDQ0MzdkMThiYzE0NTlkZjM1Y2Q5N2YwOTRmNzBkM2JkYjE1NGQ2ZGJjMzI1M2ZjOGQ4ZDRjYTEwYmJiM2NmYzQ1ZTJmNGE5ZDMwZTNhZjFmZjY3OWZhNjQ3MjBjMDk1MDUxNTczOGQyZDQiLCJ0IjoxNzU0MjY5OTk4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.M_xi7SRktKqv2KAO_n1VKee2LngrVtIdxZq-JZIp56U/Kurve-v1.1.0.plasmoid</payload>
+  <tags>linux,plasma,plasma##majorversion=6,original-product,sound,audio,widget,kde,gplv3,extension,visualizer,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="712">
+  <name>IntiSol weather widget</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2161461</homepage>
+  <licence></licence>
+  <version>0.9.5</version>
+  <rating>55</rating>
+  <downloads>53122</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/Weather.IntiSol.kde/</installedfile>
+  <id>2161461</id>
+  <releasedate>2025-08-03</releasedate>
+  <summary>&lt;p>This widget displays the current weather.&lt;/p>
+
+&lt;p>Data is retrieved from the Open-Meteo API and processed using Bash and curl. If the widget doesn't work, you likely don't have curl installed.&lt;/p>
+
+&lt;p>This widget determines your geographical coordinates based on your IP. However, if you prefer, you can set your location manually in the settings. The widget supports translations in popular languages like English, Hindi, Mandarin, Spanish, etc. If your language isn't included, let us know!. Translations are now handled in JavaScript, a different approach from the previous method. &lt;/p>
+
+&lt;p>&lt;b>Features:&lt;/b>&lt;/p>
+
+&lt;ul>&lt;li>Can use Celsius or Fahrenheit&lt;/li>&lt;li>Automatic geographical coordinates retrieval system&lt;/li>&lt;li>Current temperature&lt;/li>&lt;li>Current weather condition&lt;/li>&lt;li>Does not require any private key&lt;/li>&lt;/ul>
+
+&lt;p>&lt;b>Donate me&lt;/b>
+&lt;font color="#225862">&lt;b>If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;/b>&lt;/font>
+&lt;a href="https://www.paypal.me/zayronxio">&lt;font color="#077dd2">&lt;b>Donate&lt;/b>&lt;/font>&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/24/01/13/2161461/intisol.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2161461/intisol.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1MzA0NTY5OSwibyI6IjEiLCJzIjoiOTllZDU4ZTU5ODUzNWQ2OWEwZDY4YWU5MTI1OGNhYWZjNGUyYmYwYWU2OGY1ZTMyMjcwOGEyOWE5Y2IxMDlhZjE1MzQ5NjJjNGJjYjlmMGYzYTkzNDBkMjA2ZDAzZTA5ZmEyNDU5NGQ2M2MyOTkwZTJkOGViMzgzZWNhMTY1MzgiLCJ0IjoxNzU0MjY4ODU5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.IQsecD85I0mmzAAPCaDg3jJqiX0U0xO_NW6547TJ8j0/Weather.IntiSol.kde.tar.xz</payload>
+  <tags>agplv3,linux,unix,tahoe,plasma##majorversion=6,rainmeter,plasma,widget,extension,conky,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Netspeed Widget</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/2136505</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>77</rating>
+  <downloads>59769</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/org.kde.netspeedWidget/</installedfile>
+  <id>2136505</id>
+  <releasedate>2024-03-10</releasedate>
+  <summary>&lt;p>Plasma 6 widget that displays the currently used network bandwidth.&lt;/p>
+
+&lt;p>The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;/p>
+
+&lt;p>Required dependencies:&lt;/p>
+
+&lt;ul>
+&lt;li>awk&lt;/li>
+&lt;/ul>
+
+&lt;p>Optional dependencies:&lt;/p>
+
+&lt;ul>
+&lt;li>plasma-addons (may be called plasma5-addons, kdeplasma-addons or similar - used to launch a user defined application when the applet is clicked)&lt;/li>
+&lt;/ul>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/03/18/67/2136505/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/03/18/67/2136505/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMDEwMzc0MCwibyI6IjEiLCJzIjoiOTYzMTAxNjA1OWI4OTk5ODgxOTJlMzc2OTNhMTA2OTg2NjdiNDQyOTg5NTI4ZmE4MDc0MzJlMmRmZTkzZDBhNmJlZjllNjYyNTVhY2UwZTY5MmUyZjdkNDg0Yzc3ZGEzZGZjZjk2NjJlZTQyOGE2Y2U1OTE1NmViZjI4Y2VmMDkiLCJ0IjoxNzU0MjY4ODU3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.fQTbydG4xWJTgOZXg0u76r7yhAG-iM7JuPl_P1m5SNk/netspeed-widget-3.1.plasmoid</payload>
+  <tags>widget,network,original-product,plasma,plasma##majorversion=6,linux,monitor,unix,gplv2-later,kde,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="710">
+  <name>Thermal Monitor</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>olib</author>
+  <homepage>https://store.kde.org/p/2100418</homepage>
+  <licence></licence>
+  <version>0.2.6</version>
+  <rating>74</rating>
+  <downloads>56326</downloads>
+  <installedfile>/home/pinedev/.local/share/plasma/plasmoids/org.kde.olib.thermalmonitor/</installedfile>
+  <id>2100418</id>
+  <releasedate>2025-03-22</releasedate>
+  <summary>&lt;p>System temperatures at a glance&lt;/p>
+
+&lt;p>For Plasma 5, please see: https://store.kde.org/p/2070765/&lt;/p>
+
+&lt;p>Inspired by:&lt;/p>
+
+&lt;ul>&lt;li> https://github.com/kotelnik/plasma-applet-thermal-monitor&lt;/li>&lt;li> and its fork https://gitlab.com/agurenko/plasma-applet-thermal-monitor&lt;/li>&lt;/ul>
+
+&lt;p>This applet uses &lt;i>libksysguard&lt;/i> for retrieving temperature information provided by &lt;i>ksystemstats&lt;/i>.&lt;/p>
+
+&lt;p>&lt;u>Usage&lt;/u>
+Add the applet to either the panel or the desktop. To add sensors to display, click the applet and configure.
+Sensors can be added and renamed through the &lt;i>Add Sensors&amp;hellip;&lt;/i> button. To export sensors to the clipboard, and copy from, the import/export buttons can be used.
+The libraries &lt;i>ksystemstats&lt;/i>, &lt;i>libksysguard&lt;/i>, &lt;i>kitemmodels&lt;/i>, &lt;i>kdeclarative&lt;/i> and &lt;i>kquickcharts&lt;/i> must be installed. They are dependencies of even a minimal Plasma installation, so they should already be installed.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/73/30/77/2100418/icon.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/73/30/77/2100418/icon.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MjYxMjQwOSwibyI6IjEiLCJzIjoiN2VkNDE2YTc0ZmVmZGExYjExMzE0NDIyZDU5YzBhOTg1MDYyY2Y5YWY4YzJlZDkwMjM1NWI3MjZmYTA5MWQ4MGIwZGE0NWRjNmQyYTE4ZDZhM2I3YTc0MTJjN2JkNzgzZGEyZTNjZDJkYmVkZWJkYWY5YzIzOWQzNDRmOWJlNWUiLCJ0IjoxNzU0MjY4ODcxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.whkhQsOf7hW7F9tolCZrHQqqbnF7nRzeaiuvPkiZz2E/thermalmonitor.plasmoid</payload>
+  <tags>widget,mit-license,monitoring,linux,unix,temperature,thermal,original-product,plasma##majorversion=6,plasma,sensor,kde,extension</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

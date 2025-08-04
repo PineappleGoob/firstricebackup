@@ -1,0 +1,11 @@
+#!/bin/bash
+DEST="$HOME/backup/$(date +%F)"
+mkdir -p "$DEST"
+
+cp -r ~/.config "$DEST/"
+cp -r ~/.local/share "$DEST/"
+cp -r ~/.kde "$DEST/" 2>/dev/null
+cp ~/.bashrc ~/.zshrc ~/.profile ~/.gtkrc-2.0 "$DEST/" 2>/dev/null
+cp -r ~/.config/kitty "$DEST/kitty/"
+rpm -qa > "$DEST/fedora-packages.txt"
+flatpak list --app > "$DEST/flatpak-apps.txt"

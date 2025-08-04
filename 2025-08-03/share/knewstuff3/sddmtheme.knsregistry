@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Orchis sddm</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1458914</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>77211</downloads>
+  <installedfile>/tmp/01-Orchis.tar.gz</installedfile>
+  <id>1458914</id>
+  <releasedate>2024-10-20</releasedate>
+  <summary>&lt;h2>Orchis theme for kde plasma&lt;/h2>
+
+&lt;h2>&lt;b>Kvantum theme:&lt;/b> &lt;a href="https://www.pling.com/p/1458909/">https://www.pling.com/p/1458909/&lt;/a>&lt;/h2>
+
+&lt;h2>&lt;b>Icon theme:&lt;/b> &lt;a href="https://www.pling.com/p/1359276/">https://www.pling.com/p/1359276/&lt;/a>&lt;/h2>
+
+&lt;h2>&lt;b>Cursors theme:&lt;/b> &lt;a href="https://www.pling.com/p/1358330/">https://www.pling.com/p/1358330/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Wallpaper:&lt;/b> &lt;a href="https://www.pling.com/p/1458908/">https://www.pling.com/p/1458908/&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/32/24/44/1458914/af69031526f46fbb3ad6833866d3aa69f71483700ac81234339c41b8c9cc32a32cfb.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1458914/af69031526f46fbb3ad6833866d3aa69f71483700ac81234339c41b8c9cc32a32cfb.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyOTQxMjUzNywibyI6IjEiLCJzIjoiZDhkZDc4NDhjZjZhNDQ1Njg2MmM3MDYzNzc3MjFiNGIwMTU3NDFmMDQ1MjZjMzcwODU1NDU2Mjk3YjRjMzFjNmM4MmFhY2JiY2I5NTg1YTNmZjdmNjNjY2NiMDFhMGNlMTA1Y2NiOGIzODA1Yjk3YWFjOTZlYTc3NWViYjNkMTEiLCJ0IjoxNzU0MjY4Njk3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.QHhue39NrBXjqkVxAAu240bFcNdwIwFItUMCxwROnkA/01-Orchis.tar.gz</payload>
+  <tags>gplv3,efi,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Sweet Ambar Blue SDDM Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2149362</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>56184</downloads>
+  <installedfile>/tmp/Sweet-Ambar-Blue-Plasma-6.tar.xz</installedfile>
+  <id>2149362</id>
+  <releasedate>2025-07-31</releasedate>
+  <summary>&lt;p>Colorful sddm theme for plasma 6&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-4/img/00/00/36/61/48/2149362/captura-desde-2022-09-10-13-15-00.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2149362/captura-desde-2022-09-10-13-15-00.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMzkyNDE4OCwibyI6IjEiLCJzIjoiN2YyYzFlYjJmYWQ5Zjk1OGE1ZWYxNTgzMWM4OTAyZGFmZTI0ZTJiMzk2YWI5NDlhZTg4YTllNjI3NWRkOWYwMTUzMjlhOTY0NGExMTVlMGIyMTQ5MTk0Y2E5OWQ0ZTk0YWYxYmIzYmYwYTVkNGU1OWM1NmM2YzY1NWJkMWZhZDMiLCJ0IjoxNzU0MjY4ODA5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTA4LjE4LjExMS41MiJ9.znwHN1w89_T7aR3tSU8fR-98KFrb3-5DhxRrrqMR-RU/Sweet-Ambar-Blue-Plasma-6.tar.xz</payload>
+  <tags>unix,gplv3,linux,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

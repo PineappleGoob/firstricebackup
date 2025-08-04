@@ -1,0 +1,59 @@
+2025-08-03T19:50:10 [INFO ] org.kde.pim.akonadiserver: Starting up the Akonadi Server...
+2025-08-03T19:50:13 [INFO ] org.kde.pim.akonadiserv2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadicontrol: Akonadi server is now operational.
+lizer done
+2025-08-03T19:50:15 [WARN ] default: Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500022c0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500022c0) identified as "ETMCalendarMonitor - 94152437161312"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550023660) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955002eb90) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550052060) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550023660) identified as "AgentBaseChangeRecorder - 94845818204288"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955002eb90) identified as "akonadi_maildispatcher_agent - 94845817374864"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550052060) identified as "SpecialCollectionsMonitor - 94845817395152"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500762e0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500762e0) identified as "AgentBaseChangeRecorder - 94723134925152"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550077ec0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955008a520) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955008b490) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955009d660) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955009e5f0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955008a520) identified as "AgentBaseChangeRecorder - 94276642208544"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955008b490) identified as "AgentBaseChangeRecorder - 94385686709472"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955009d660) identified as "AgentBaseChangeRecorder - 94060781885632"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500d2e40) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955009e5f0) identified as "AgentBaseChangeRecorder - 94511473839744"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500d2e40) identified as "akonadi_birthdays_resource - 94511473877952"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550077ec0) identified as "AgentBaseChangeRecorder - 94622764076496"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500f9380) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500fb620) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95500fc900) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955010df70) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955010f670) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber "" disconnected
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550120fb0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550120fb0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550122780) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550133ea0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500f9380) identified as "AgentBaseChangeRecorder - 94763563174688"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500fb620) identified as "AgentBaseChangeRecorder - 94209605714368"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550120fb0) identified as "Archive Mail Kernel ETM - 94763563306160"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550122780) identified as "ArchiveMailCollectionMonitor - 94763563261104"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955010df70) identified as "UnifiedMailboxChangeRecorder - 140725211826752"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95500fc900) identified as "AgentBaseChangeRecorder - 94704644474224"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber "" disconnected
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955017ba70) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955017cb10) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955017ba70) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550133ea0) identified as "AgentBaseChangeRecorder - 94262217661472"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955017e3d0) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955010f670) identified as "AgentBaseChangeRecorder - 94077995639632"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955017cb10) identified as "MailFilter Kernel ETM - 94077995750976"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955017ba70) identified as "MailFilterCollectionMonitor - 94077995794208"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955017e3d0) identified as "MailFilterItemMonitor - 94077995760336"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f95501c4a50) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f95501c4a50) identified as "SpecialCollectionsMonitor - 94077995891632"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f955016e890) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f955016e890) identified as "AgentBaseChangeRecorder - 94199976526480"
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f9550197f10) )
+2025-08-03T19:50:15 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f9550197f10) identified as "AgentBaseChangeRecorder - 94669053422256"
+2025-08-03T19:50:46 [WARN ] org.kde.pim.akonadiserver: Handler exception when handling command ModifyCollection on connection akonadi_ical_resource_0 (0x55e145041a80) : Hierarchical RID does not specify an existing collection
